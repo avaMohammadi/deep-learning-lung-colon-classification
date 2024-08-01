@@ -49,10 +49,3 @@ The LC25000 dataset consists of histopathological images of lung and colon cance
 
 The fine-tuned and transfer learning models showed significant improvements over the baseline model, achieving accuracy up to 97%.
 
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/deep-learning-lung-colon-classification.git
-   cd deep-learning-lung-colon-classification
