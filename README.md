@@ -51,7 +51,7 @@ The fine-tuned and transfer learning models showed significant improvements over
 
 ## References
 
-- Masud, M. et al. (2021). A machine learning approach to diagnosing lung and colon cancer using a deep learning-based classification framework. *Sensors*, 21(3), 1–21. [Link](https://www.mdpi.com/1424-8220/21/3/813)
-- Kumar, N. et al. (2022). An empirical study of handcrafted and dense feature extraction techniques for lung and colon cancer classification from histopathological images. *Biomedical Signal Processing and Control*, 75, 103550. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1746809421005833)
+- Masud, M. et al. (2021). A machine learning approach to diagnosing lung and colon cancer using a deep learning-based classification framework. *Sensors*, 21(3), 1–21. 
+- Kumar, N. et al. (2022). An empirical study of handcrafted and dense feature extraction techniques for lung and colon cancer classification from histopathological images. *Biomedical Signal Processing and Control*, 75, 103550.
 
 
