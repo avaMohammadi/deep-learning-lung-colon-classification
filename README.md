@@ -51,7 +51,10 @@ The fine-tuned and transfer learning models showed significant improvements over
 
 ## References
 
+- LC25000 Dataset: *Lung and Colon Cancer Histopathological Image Dataset*. [Link](https://github.com/tampapath/lung_colon_image_set/)
 - Masud, M. et al. (2021). A machine learning approach to diagnosing lung and colon cancer using a deep learning-based classification framework. *Sensors*, 21(3), 1–21. 
 - Kumar, N. et al. (2022). An empirical study of handcrafted and dense feature extraction techniques for lung and colon cancer classification from histopathological images. *Biomedical Signal Processing and Control*, 75, 103550.
+- Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. ”Imagenet classification with deep convolutional neural networks.” Communications of the ACM 60.6 (2017): 84-90.
+
 
 
