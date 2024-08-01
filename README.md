@@ -49,12 +49,6 @@ The LC25000 dataset consists of histopathological images of lung and colon cance
 
 The fine-tuned and transfer learning models showed significant improvements over the baseline model, achieving accuracy up to 97%.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Required Python libraries (listed in `requirements.txt`)
 
 ### Installation
 
